@@ -1,0 +1,40 @@
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.csproj.AssemblyReference.cache
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.CatalogueForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.CreateOrderForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.ExpiredProductsForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.LoginForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.OrderForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.PickingListForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.PoppelMDIParent.resources
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.RegistrationForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.csproj.GenerateResource.cache
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.csproj.CoreCompileInputs.cache
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\bin\Debug\Poppel.mdf
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\bin\Debug\Poppel_log.ldf
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\bin\Debug\PoppelProject.exe.config
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\bin\Debug\PoppelProject.exe
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\bin\Debug\PoppelProject.pdb
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.exe
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.pdb
+C:\Users\NJABULO NDIMANDE\Desktop\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.Properties.Resources.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\bin\Debug\Poppel.mdf
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\bin\Debug\Poppel_log.ldf
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\bin\Debug\PoppelProject.exe.config
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\bin\Debug\PoppelProject.exe
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\bin\Debug\PoppelProject.pdb
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.csproj.AssemblyReference.cache
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.CatalogueForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.CreateOrderForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.ExpiredProductsForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.LoginForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.OrderForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.PickingListForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.PresentationLayer.PoppelMDIParent.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.RegistrationForm.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.Properties.Resources.resources
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.csproj.GenerateResource.cache
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.csproj.CoreCompileInputs.cache
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.exe
+C:\Users\NJABULO NDIMANDE\Desktop\fIRST BACK UP\Poppel 4.000\PoppelProject\obj\Debug\PoppelProject.pdb
